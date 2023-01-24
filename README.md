@@ -10,5 +10,5 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,
-Adam Lausche
-adam.lausche@gmail.com
+The CatFace Cat
+the.catfacecat@gmail.com
